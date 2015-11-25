@@ -1,0 +1,24 @@
+.os-mech-checkbox-options{
+  border-spacing: 10px 0;
+  padding-top: 10px;
+}
+.os-mech-drawing{
+    padding-bottom: 40px;
+	padding-top: 10px;
+}
+.os-mech-design{
+}
+.os-mech-code-locked{
+background-color : #C1CDCD;
+width: 100%;
+}
+.os-mech-heading{
+background-color: #9EB0CF;
+}
+.os-mech-thumb{
+max-width:200px;
+max-height:200px;
+}
+.os-mech-textbox-ratio{
+width: 40px;
+}
